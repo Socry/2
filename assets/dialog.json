@@ -45,13 +45,13 @@
     }, {
         "id": "0004",
         "details": [
-            ["唔……", "这是个哲学问题……", "在我想出这个问题的答案前，我想，你还是先叫我阿树吧！"]
+            ["我是阿树", "迷信的九五年大妈", "梦想是长生不老"]
         ],
         "nextXianzhe": ["0005"]
     }, {
         "id": "0005",
         "details": [
-            ["阿树是我在阿里实习时候起的花名，具体参见这篇文章", "<a href='http://zhangwenli.com/blog/2015/04/29/new-name/'>http://zhangwenli.com/blog/2015/04/29/new-name</a>"]
+            ["阿树是我的网名", "<a href='http://zhangwenli.com/blog/2015/04/29/new-name/'>你好</a>"]
         ],
         "responses": [{
             "content": "你的职业是？",
