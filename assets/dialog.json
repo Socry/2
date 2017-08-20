@@ -231,10 +231,10 @@
     }, {
         "id": "0023",
         "details": [
-            ["唔，我是一个程序媛", "准确地说，是在百度工作的前端工程师"]
+            ["新媒体运营", "哈哈哈哈"]
         ],
         "responses": [{
-            "content": "嗯哼~ 百度？",
+            "content": "嗯哼~ 写公众号吗？",
             "nextXianzhe": ["0024"]
         }, {
             "content": "你想跳槽吗？",
@@ -243,10 +243,10 @@
     }, {
         "id": "0024",
         "details": [
-            ["是的", "我在百度 ECharts 团队做可视化相关的工作"]
+            ["我的工作主要是运营微博", "不过我也有自己的公众号啦"]
         ],
         "responses": [{
-            "content": "听起来很有意思~ 可以具体跟我说说你做了什么吗？",
+            "content": "你的公众号发来看下",
             "nextXianzhe": ["0025"]
         }, {
             "content": "我们在做一件很酷的事，愿不愿意加入我们？",
@@ -258,13 +258,14 @@
         "id": "0025",
         "details": [
             [
-                "<a href='http://echarts.baidu.com/theme-builder/'>ECharts 主题编辑器</a>",
-                "<img src='img/echarts-theme-editor.png'>",
-                "<a href='https://github.com/ecomfe/echarts-liquidfill'>水球图</a>",
-                "<img src='img/echarts-liquidfill.jpg'>",
-                "极坐标系下的柱状图",
-                "<img src='img/echarts-polar-bar.png'>",
-                "等等"
+                "好的",
+                "<a href='https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzA3OTc1ODQyNg==&amp;scene=110#wechat_redirect
+'>苍井树</a>",
+                "<img src='img/wechat.jpg'>",
+                "这是我14年申请的",
+                "平常比较懒",
+                "不怎么写啦",
+                "哈哈哈哈"
             ]
         ]
     }, {
