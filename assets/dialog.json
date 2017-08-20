@@ -221,12 +221,12 @@
         "id": "0022",
         "details": [
             [
-                "<img src='img/bunny.png'>",
-                "<img src='img/dragon-3d.png'>",
-                "<img src='img/yumao-xianzhe.png'>",
-                "这是最近的一些作品~",
-                "业余时间喜欢看看设计类的书，自己动手做一些东西。虽然跟科班出身的设计相比距离很大，但是作为一项技能和爱好还是挺有意思的",
-                "希望你喜欢~"
+                "微博也叫<a href='http://weibo.com/MissSocry'>苍井树</a>",
+                "我把豆瓣也告诉你吧",
+                "豆瓣ID还是叫<a href='https://www.douban.com/people/cangjingshu/'>苍井树</a>",
+                "哈哈哈哈，知乎还没改名字",
+                "欢迎互关，朝大V迈近",
+                "么~"
             ]
         ]
     }, {
@@ -473,9 +473,9 @@
         "nextXianzhe": ["0019"]
     }, {
         "id": "1005",
-        "brief": "设计",
+        "brief": "微博",
         "details": [
-            "可以看看你的设计作品吗？"
+            "可以告诉我你的微博吗？"
         ],
         "nextXianzhe": ["0022"]
     }, {
