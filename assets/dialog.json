@@ -95,10 +95,10 @@
     }, {
         "id": "0009",
         "details": [
-            ["哈哈哈，你猜？"]
+            ["没有"]
         ],
         "responses": [{
-            "content": "阿树这么可爱，一定是男孩纸吧！所以…应该有女朋友！",
+            "content": "阿树你是不是因为丑？才没人要的？",
             "nextXianzhe": ["0015"]
         }, {
             "content": "就算你有，也千万别告诉我！",
@@ -152,7 +152,7 @@
     }, {
         "id": "0015",
         "details": [
-            ["哈哈，你猜对了！", "这是我女朋友", "<img src='img/xianzhe.jpg'>"]
+            ["你真是Real耿直", "Sad，心灰意冷", "<img src='img/bu.gif'>"]
         ],
         "responses": [{
             "content": "……",
@@ -383,13 +383,13 @@
             "content": "看你很没文化的样子，给你买书吧！",
             "nextXianzhe": ["0037"]
         }, {
-            "content": "我要围观代码！",
+            "content": "嗯，有一个独立博客还蛮好玩的",
             "nextXianzhe": ["0036"]
         }]
     }, {
         "id": "0036",
         "details": [
-            ["代码在 GitHub 上开源", "<a href='https://github.com/Ovilia/ovilia.github.io'>https://github.com/Ovilia/ovilia.github.io</a>", "欢迎围观点赞"]
+            ["喵~"]
         ]
     }, {
         "id": "0037",
@@ -432,7 +432,7 @@
     }, {
         "id": "0040",
         "details": [
-            ["嘿嘿，没关系，你能够在这个网站多停留一秒，我就很开心啦！"]
+            ["知道我不是一个人在穷，也就放心啦！"]
         ],
         "responses": [{
             "content": "O(∩_∩)O哈哈~"
