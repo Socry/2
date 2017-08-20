@@ -45,13 +45,13 @@
     }, {
         "id": "0004",
         "details": [
-            ["唔……", "这是个哲学问题……", "在我想出这个问题的答案前，我想，你还是先叫我阿树吧！"]
+            ["我是阿树", "一个迷信的九五年大妈", "梦想是长生不老"]
         ],
         "nextXianzhe": ["0005"]
     }, {
         "id": "0005",
         "details": [
-            ["阿树是我在阿里实习时候起的花名，具体参见这篇文章", "<a href='http://zhangwenli.com/blog/2015/04/29/new-name/'>http://zhangwenli.com/blog/2015/04/29/new-name</a>"]
+            ["少年感来自灵魂深处", "有不会变冷的血和固执天真的劲儿，并且永不被市井荼毒。"]
         ],
         "responses": [{
             "content": "你的职业是？",
@@ -74,9 +74,9 @@
         "id": "0007",
         "details": [
             [
-                "我经常觉得自己挺无聊的……",
-                "无聊的时候，会读书、弹尤克里里、画画（全靠脑洞）、拉小提琴（很久没碰）、拍拍照片（但宅在家里怎么破）等等",
-                "有点三分钟热度，所以接触的兴趣爱好倒不少，就是都没啥特别厉害的~"
+                "额，我的爱好蛮偏的",
+                "我比较迷信，会看一下星象、命理、养生类的书。",
+                "日常看小说打发时间，自己也有在连载小说。"
             ]
         ],
         "nextXianzhe": ["0013"]
@@ -135,7 +135,7 @@
     }, {
         "id": "0013",
         "details": [
-            ["想看看我画的画吗？", "虽然……", "没啥天赋……"]
+            ["有空的话，我会看一些动漫", "嗯，如果可以……", "我给你推荐几部动漫吧"]
         ],
         "responses": [{
             "content": "好啊好啊！",
@@ -147,7 +147,7 @@
     }, {
         "id": "0014",
         "details": [
-            ["<img src='img/mushroom.jpg'>", "<img src='img/trees.jpg'>", "<img src='img/fried-chicken.jpg'>"]
+            ["cowboy bebop", "joker game", "目前在追 独占我的英雄"]
         ]
     }, {
         "id": "0015",
@@ -231,10 +231,10 @@
     }, {
         "id": "0023",
         "details": [
-            ["唔，我是一个程序媛", "准确地说，是在百度工作的前端工程师"]
+            ["我是做新媒体运营的", "哈哈哈哈"]
         ],
         "responses": [{
-            "content": "嗯哼~ 百度？",
+            "content": "嗯哼~ 那你写公众号嘛？",
             "nextXianzhe": ["0024"]
         }, {
             "content": "你想跳槽吗？",
@@ -243,10 +243,10 @@
     }, {
         "id": "0024",
         "details": [
-            ["是的", "我在百度 ECharts 团队做可视化相关的工作"]
+            ["我的主要工作是运营微博", "不过我也有自己的公众号啦"]
         ],
         "responses": [{
-            "content": "听起来很有意思~ 可以具体跟我说说你做了什么吗？",
+            "content": "可以把你的公众号发我看看嘛？",
             "nextXianzhe": ["0025"]
         }, {
             "content": "我们在做一件很酷的事，愿不愿意加入我们？",
@@ -258,13 +258,13 @@
         "id": "0025",
         "details": [
             [
-                "<a href='http://echarts.baidu.com/theme-builder/'>ECharts 主题编辑器</a>",
-                "<img src='img/echarts-theme-editor.png'>",
-                "<a href='https://github.com/ecomfe/echarts-liquidfill'>水球图</a>",
-                "<img src='img/echarts-liquidfill.jpg'>",
-                "极坐标系下的柱状图",
-                "<img src='img/echarts-polar-bar.png'>",
-                "等等"
+                "好的",
+                "<a href='https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzA3OTc1ODQyNg==&amp;scene=110#wechat_redirect'>苍井树</a>",
+                "<img src='img/wechat.jpg'>",
+                "这是我14年申请的号",
+                "不过一直没动笔",
+                "以后会持续更新",
+                "记得要来捧场哦"
             ]
         ]
     }, {
